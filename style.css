@@ -1,0 +1,283 @@
+#wrapper
+{
+	
+	width:100%;
+	height:100%;
+	background:black;
+	margin:0 auto;
+	border:2px solid;
+}
+
+	
+
+#header
+{
+	width:100%;
+	height:15%;
+    background-color:red;
+	border:2px solid;
+	border-radius:2px;
+	
+	
+	
+}
+
+
+#middle{
+	 width: 100%;
+	 height:1000px;
+	 background-color: white;
+	 position:relative;
+	 
+}
+#teamp{
+	
+	max-width:100%;
+	
+}
+
+#middle2{
+	 width: 100%;
+	 height:1000px;
+	 background-color: red;
+	 position:relative;
+	 
+}
+#middle3{
+	 width: 100%;
+	 height:1000px;
+	 background-color: red;
+	 position:relative;
+	 
+}
+#middle4{
+	 width: 100%;
+	 height:1000px;
+	 background-color: red;
+	 position:relative;
+	 
+}
+#leftside{
+	width: 20%;
+	height:1000px;
+	background-color: black;
+	float: left;
+	
+}
+
+
+#rightside{
+	width: 20%;
+	height: 1000px;
+	background-color: black;
+	float: right;
+}
+#box1{
+	height:184px;
+	width:60%;
+	background-color: green;
+	background-position: center;
+
+}
+
+#box2
+{
+	
+	height: 816px;
+	width: 60%;
+	background-color:red;
+	background-position: centre;
+	
+	
+}
+
+#box3{
+	
+	height: 200px;
+	width:100%;
+	color:black;
+	position: relative;
+	
+}
+
+
+#box4{
+	
+	height: 300px;
+	width:300px;
+	background-color:white;
+	float:left;
+	
+}
+
+#box5{
+	
+	height: 300px;
+	width:300px;
+	background-color:white;
+	float:right;
+	
+}
+
+
+#contentbox{
+	
+	
+	height:600px;
+	width: 80%;
+	background-color:white;
+	background-position: center;
+	border-radius: 15px;
+	padding-top: 5cm;
+	
+}
+
+#footer
+{
+	width:100%;
+	height:15%;
+	background-color:red;
+	border:2px solid;
+	border-radius:2px;
+	position: relative;
+	
+}
+
+
+h1{
+	font-size:40px;
+	text-align:center;
+	text-decoration:bold;
+	
+}
+h2{
+	font-size: 40px;
+	color: red;
+	
+}
+p1{
+	font-size: 28px;
+	color: red;
+	
+}
+li{
+	display: inline;
+	margin-right: 270px;
+	
+	
+	
+}
+
+
+ /* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+}
+h3{
+	font-size: 20px;
+	text-align: center;
+	color:red;
+	
+}
+h4{
+	font-size: 20px;
+	text-align:center;
+	color:red;
+}
+h5{
+	
+	font-size: 40px;
+	text-align: center;
+	text-decoration: bold;
+	
+	
+}
+p2{
+	
+	font-size:20px;
+	text-align: center;
+	text-decoration: bold;
+	
+	
+	
+}
+
+#side1{
+	height:1000px;
+	width:100%;
+	
+}
+.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid white;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+	max-width:100%;
+}
+.img2{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid white;
+    height: auto;
+    width: auto;
+    float: right;
+    text-align: center;
+	max-width:100%;
+}
+.img3{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid white;
+    height: auto;
+    width: auto;
+    float: right;
+    text-align: center;
+	max-width:100%;
+}
+
+.img4{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid white;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+	max-width:100%;
+}
+#top{
+	
+	width: 80%;
+	height: 300px;
+	background-color: white;
+	border-radius: 15px;
+	margin: auto 0;
+}
+#ball1{
+	
+	float:left;
+	
+}
+#ball2{
+	
+	
+	float:right; 
+}
+
+p{
+	text-decoration:bold;
+	color:red;
+	size:15;
+	
+	
+}
+
+
+
+
+
+
+
